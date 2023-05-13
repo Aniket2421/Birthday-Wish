@@ -13,7 +13,7 @@ var love = setInterval(function(){
   },500);
   
   var i = 0;
-  var txt1 = " Happy birthday to my amazing, beautiful, and wonderful friend 🎂!<<You are truly one of a kind🤗, and I am so lucky to have you in my life❤️.<<You light up every room you enter and bring joy to everyone around you🫂. <<I am grateful for the countless memories we've shared together, and I can't wait to make more in the years to come.🤗 > On this special day, I hope you feel all the love and appreciation you deserve✨❤️. << May your day be filled with all your favorite things, surrounded by your favorite people.🥰<< Cheers to you, my dear friend!🥂 << Once again Wishing you the happiest of birthdays!❤️🫂"
+  var txt1 = " Happy birthday to my amazing, beautiful, and wonderful BFF Bhuddu Jaan ❤️!<<You are truly one of a kind🤗, and I am so lucky to have you in my life❤️.<<You light up every room you enter and bring joy to everyone around you🫂. <<I am grateful for the countless memories we've shared together, and I can't wait to make more in the years to come.🤗 > On this special day, I hope you feel all the love and appreciation you deserve✨❤️. << May your day be filled with all your favorite things, surrounded by your favorite people.🥰😘<< Cheers to you, my dear friend!🥂 << Once again Wishing you the happiest of birthdays!❤️🤗"
   var speed = 120;
   typeWriter();
   function typeWriter() {
